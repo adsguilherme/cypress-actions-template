@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "cypress:test": "yarn cypress run",
-    "cypress:gui": "yarn cypress open"
+    "cypress:gui": "yarn cypress open",
+    "cy:dash": "npx cypress run --record --key ${CYPRESS_RECORD_KEY}"
   },
   "author": "",
   "license": "MIT",
