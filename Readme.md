@@ -9,6 +9,7 @@ Repositório do treinamento: Workflow de testes contínuos em Cypress no Github 
 - Javascript
 - Cypress Dashboard
 - Tesults
+- Allure Reports
 
 ## Rodando
 

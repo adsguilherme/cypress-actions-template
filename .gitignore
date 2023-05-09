@@ -4,3 +4,6 @@ cypress/screenshots
 results
 results/*.xml
 cypress.env.json
+
+allure-report
+allure-results
